@@ -4,6 +4,17 @@ title: About
 permalink: /about/
 ---
 
+<style type="text/css">
+    table {
+        font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', Courier, monospace;
+        font-size: 20px;
+        white-space: nowrap;
+        background-color: SteelBlue;
+        margin-left: 13em;
+        margin-right: 13em;
+    }
+</style>  
+
 Nachfolgend ein wenig Hintergrund zu der Person die hier schreibt. Ich bin im Kanton Zürich geboren und lebe im Zücher Oberland. Väterlicherseits eng mit dem Bezirk Thun im Kanton Bern verbunden. Mir gefällt es abseits der Metropolen und Berge ziehen mich magisch an. Mit einenm guten Buch und einem Glas alten Rotweines bin der zufriedenste Mensch der Welt. 
 
 Mit dem Sinclair ZX 81 begann meine Faszination für Computer, Netzwerke und Technologien. "Computer" fordern meinen Intellekt auf vielfältige und freundliche Art täglich heraus. Vielleicht könnte man mich als Nerd bezeichnen, da ich keine grössere Leidenschaft in meinem Leben kenne. Zuletzt war ich 8 Monate in einem anspruchsvollen Cisco Projekt, wo wir für eine Grossbank die Switche in den Filialen durch eine neue Generation ersetzen. Von Netzplänen ändern, Konfigurieren mit anzupassenden Vorlagen, bis hin zum Remote begleiten der Rollouter.  
