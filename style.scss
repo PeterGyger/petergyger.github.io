@@ -20,7 +20,7 @@ html {
 body {
 	background: #0f0a0a;
   font: 18px/1.4 $helvetica;
-  color: $blue;
+  color: $navy;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $blue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $blue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $blue;
 }
 
 .posts > .post:last-child {
