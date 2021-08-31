@@ -20,7 +20,7 @@ html {
 body {
 	background: #0f0a0a;
   font: 18px/1.4 $helvetica;
-  color: $DodgerBlue;
+  color: $dodgerblue;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $mediumblue;
+  color: $dodgerblue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $DodgerBlue;
+  color: $dodgerblue;
 }
 
 p {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $mediumblue;
+  color: $dodgerblue;
 }
 
 // Specify the color of the selection
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $mediumblue;
+  color: $dodgerblue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $mediumblue;
+  color: $dodgerblue;
   font-size: 16px;
 
   @include mobile {
@@ -213,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $dodgerblue;
   font-size: 18px;
 
   @include mobile {
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $dodgerblue;
     }
   }
 }
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $blue;
+  border-bottom: 1px solid $dodgerblue;
 }
 
 .posts > .post:last-child {
