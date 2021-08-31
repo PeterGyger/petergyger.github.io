@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $navy;
+  color: $skyblue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $navy;
+    color: $skyblue;
   }
 }
 
@@ -176,7 +176,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 10px;
   }
 }
 
