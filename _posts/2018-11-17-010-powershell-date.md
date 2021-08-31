@@ -7,9 +7,9 @@ tags:
   - powershell  
 ---  
 
-# Überblick  
+# Powershell - meine Notizen zu Zeit / Datum  
 
-Notizen zu Powershell und Datum als Datentyp und Funktion.
+Datums- und Zeitformate sind immer ein Punkt der beachtet werden muss. Darum machte ich mir diese Notizen.
 
 ## Details  
 

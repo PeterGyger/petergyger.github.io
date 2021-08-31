@@ -7,7 +7,7 @@ tags:
   - tool
 ---  
 
-# Überblick
+# SysInternals kleines Helferlein...
 
 Mark Russinovich hat mit der Tool Suite "Sysinternals" die bekannteste Windows Tool Suite erstellt. Eines der Tool im Schatten von "Autoruns", "Process Monitor" etc. ist "Zoom IT". Da die Tools ohnehin über "path" eingebunden sind, habe ich mir dieses Programm näher angeschaut.  
 
@@ -186,6 +186,8 @@ Natürlich bietet auch hier die Tastatur verschiedene Funktionen an
 * [SysInternals - ZoomIt - Q&A](
 https://docs.microsoft.com/en-us/answers/search.html?c=&includeChildren=&f=&type=question+OR+idea+OR+kbentry+OR+answer+OR+topic+OR+user&redirect=search%2Fsearch&sort=relevance&q=zoomit)  
 * [live.sysinternals.com: ZoomIt64.exe](https://live.sysinternals.com/ZoomIt64.exe)
+* [Sysinternals Suite download (inkl. ARM / Nano Server Variante)](https://docs.microsoft.com/en-us/sysinternals/downloads/)
+
 
 
 

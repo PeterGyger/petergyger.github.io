@@ -7,9 +7,9 @@ tags:
   - tool
 ---  
 
-# Überblick 
+# Windows Device Management auf der CLI 
 
-Wenn ich nachfolgend auf das Microsoft Kommanozeilen (CLI) Programm DevCon (DevCon = "Device Console") eingehen, ist immer auch die Nirsoft Variante DevManView gemeint. Die Programme sind für denselben Zweck konzipiert. Auf die Unterschiede gerade in den Befehlen und Parametergehe ich weiter unten ein.  
+Wenn ich nachfolgend auf das Microsoft Kommanozeilen (Administrator Rechte) Programm DevCon (DevCon = "Device Console") eingehen, ist immer auch die Nirsoft Variante DevManView gemeint. Die Programme sind für denselben Zweck konzipiert. Auf die Unterschiede gerade in den Befehlen und Parametergehe ich weiter unten ein.  
 
 Analog dem Gerätemanager, aber weit mächtiger ermöglicht DevCon die Geräteverwaltung. Geräte können einzeln oder als Gruppe angesprochen (aktivieren, deinstallieren, etc.) werden. Gerade für den Supporter / Administrator ist es in der Werkzeugkiste nicht verzichtbar.  
 
@@ -119,6 +119,9 @@ Alle Geräte anzeigen, welche "USB" im Namen beinhalten:
 Alle Geräte anzeigen, welche "USB" im Namen beinhalten sollen ausgeschaltet werden *(VORSICHT!!!)*  
 ``Get-PnpDevice | Where-Object { $_.FriendlyName -match 'USB' } | Disable-PnpDevice``  
 
+# Sysinternal Tool WinObj
+
+In diesen Kontext gehört auch das Sysinternal Tool [WinObj V3.11](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj).  
 
 # Quellen  
 

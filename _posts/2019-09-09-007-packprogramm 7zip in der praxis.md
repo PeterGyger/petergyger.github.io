@@ -7,7 +7,7 @@ tags:
   - tool
 ---
 
-# Überblick  
+# Das ultimative Pack / Unpack Utility  
 
 7-Zip ist ein beliebtes Allround Packproramm, dass mit vielen Formaten umgehen kann. Es enthält einen Dateimanager und Kommandozeilen (CLI) Programme. Details was die Download Datei für Windows beinhaltet ist in der Datei "Readme.txt" im ausgepackten Verzeichnis zu finden.  
 
@@ -24,7 +24,7 @@ Die Version 7za fand ich auf der ["Source Forge"](https://www.7-zip.org/a/7za920
 
 Dieser Post handelt von CLI Beispielen in der Praxis. Der Aufruf des Programmes erfolgt ohne Pfadangabe, da ich alle zusätzlichen Programme ("Tools") in einem Verzeichnis abgelegt habe, dass in der "Path" Angabe integriert ist. Natürlich funktioniert es auch in einer anderen Shell wie "Powershell"  .
 
-### Syntax  
+## Syntax  
 
 Der Aufruf des Programmes wird über "Funktionen" und "Switches" gesteuert". Switches sind das Feintuning. Switches werden mit einem Bindestrich angegeben, die Buchstaben der Funktion nicht. Der Aufruf des Programmes ohne weitere Angaben zeigt die Hilfe zum Programm und das Copyright mit Datum der verwendeten Version an.  
 
@@ -103,7 +103,7 @@ Die Dateien eines Verzeichnis wurde in ein Archiv bestehend aus 3 Dateien gepack
 
 Nachfolgend verschiedene Möglichkeiten wie sie ausgepackt werden können  
 
-### Variante 1
+## Variante 1
 
 CMD  
 ```
@@ -190,8 +190,13 @@ Natürlich will ich auf der CLI alle drei Archive mit einer Eingabe auspacken. F
 for %a in (*.part01.rar) do 7z e *.part01.rar -ox:\kt-stat\%a
 ``
 
+# Download
 
-## Fazit
+7-ZIP wird vom Entwickler auf SourceForge angeboten. Die neueste Version findet man im Tab "Files". Nicht in "Summary". Auch die Hashwerte findet man (nur) dort.  
+
+![MD5](/images/007-md5.jpg)  
+
+# Fazit
 
 Die Beispiele wurden während des schreibens mit 7-Zip Version 19 unter Windows 10 positiv getestet. 
 

@@ -8,7 +8,7 @@ tags:
   - tipp
 ---  
 
-# Überblick  
+# Welche Möglichkeiten bietet mir Markdown um Tabellen darzustellen?
 
 Mit der Auszeichnungssprache Markdown (GitHub) habe ich verschiedene Möglichkeiten Tabellen darzustellen. Optisch bietet Markdown wenig Möglichkeiten. Aber mit den W3C Sprachen (HTML / CSS) erreiche ich sehr viel mehr. Etwas Webdesign für Markdown.  
 

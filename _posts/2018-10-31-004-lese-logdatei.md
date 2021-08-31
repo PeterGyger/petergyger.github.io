@@ -7,7 +7,7 @@ tags:
   -   
 ---  
 
-# Überblick
+# Was lese (höre) ich gerade?
 
 Eine Logdatei mit Notizen und Stichworten zu den gelesenen Büchern, Magazinen, etc..  Die Software Calibre ist die Software mit der ich die Bücher (Digital und Papier) verwalte. D.h. zu jedem Buch den Vermerk gelesen mit Datum, Stichworten, Teil einer Serie, etc.  
 
