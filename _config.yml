@@ -18,10 +18,10 @@ avatar: /images/petergyger-small.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mailto:petergyger@protonmail.com
-  github: https://github.com/PeterGyger
-  linkedin: https://www.linkedin.com/in/peter-gyger-89aa7414a
-  twitter: "https://twitter.com/petergyger"
+  email: petergyger@protonmail.com
+  github: PeterGyger
+  linkedin: /peter-gyger-89aa7414a
+  twitter: petergyger"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
