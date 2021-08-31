@@ -7,7 +7,7 @@ tags:
   - powershell  
 ---  
 
-# Powershell - meine Notizen zu Zeit / Datum  
+# Notizen zu Zeit / Datum  
 
 Datums- und Zeitformate sind immer ein Punkt der beachtet werden muss. Darum machte ich mir diese Notizen.
 
