@@ -55,7 +55,11 @@ Der Unterschied zum Buch "CCNA Security 640-554 Official Cert Guide" ist in der 
 | ISBN:     | 978-3-453-31766-6 |  
 
 In diesem Jahr habe ich die Zeit für die Trisolaris Triologie gefunden. Diese Woche starte ich mit dem letzten Band: "Jenseits der Zeit".  
-Die ersten zwei Bände waren bereits beeindruckend. Science Fiction vom Feinsten: Technik, Philosophie und Fantasie. "Jenseits der Zeit" übertrifft die ersten Bände um Längen. Da werden die verschiedenen Epochen der Menschheitsgeschichte verglichen, da werden Märchen erzählt, die Feminisierung der Männer findet Eingang, da wird mit der 4. und 2. Dimension hantiert, Raumschiffantriebe anaylsiert / verglichen, Astronomie und Distanzen erklärt, und und und. Wenn ich das Inhaltsverzeichnis anschaue und mir die einzelnen Kapitel durch den Kopf gehen lasse, dann ist das vergleichbar mit einem lukullischen Bankett.    
+Die ersten zwei Bände waren bereits beeindruckend. Science Fiction vom Feinsten: Technik, Philosophie und Fantasie. "Jenseits der Zeit" übertrifft die ersten Bände um Längen.  
+
+Da werden die verschiedenen Epochen der Menschheitsgeschichte verglichen, da werden Märchen erzählt, die Feminisierung der Männer findet Eingang, da wird mit der 4. und 2. Dimension hantiert, Raumschiffantriebe anaylsiert / verglichen, Astronomie und Distanzen erklärt, und und und. Wenn ich das Inhaltsverzeichnis anschaue und mir die einzelnen Kapitel durch den Kopf gehen lasse, dann ist das vergleichbar mit einem lukullischen Bankett.  
+
+Über all dem steht das Bekenntnis zur Liebe. Liebe und Leben werden synonym gesehen. Eines ist nicht möglich ohne das andere
 
 ## KW33  
 
