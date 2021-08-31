@@ -8,7 +8,7 @@ tags:
   - ebook
 ---
 
-# Überblick  
+# Android App Moon Reader - meine Wahl für Ebooks  
 
 Mit der Android App "Moon Reader" ist mein E-Book Reader in die "2. Wahl Liga" zurück gerutscht. Das Display meines Smartphones ist zwar kleiner als mein E-Book Reader, aber die Schrift wird hochaufgelöst und scharf angezeigt.  
 
