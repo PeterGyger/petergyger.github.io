@@ -9,9 +9,7 @@ permalink: /about/
         font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', Courier, monospace;
         font-size: 30px;
         white-space: nowrap;
-        background-color: midnightblue;
-        margin-left: 1em;
-        margin-right: 1em;
+        background-color: skyblue;
     }
 </style>  
 

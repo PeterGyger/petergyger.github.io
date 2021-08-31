@@ -22,11 +22,11 @@ $datum.month
 
 In Powershell sind alles Objekte. D.h. $datum ist keine Variable, sondern ein Objekt. Daher kann über die Variable die gleichen Methoden angewendet werden. Ich kann dem Objekt auch ein konkretes Datum vorgeben und z.B. fragen, was für ein Wochentag der 24. Dezember 2018 ist.
 
-![get-culture](../images/powershell/get-culture.jpg)  
+![get-culture](/images/010-get-culture.jpg)  
 
-![get-culture](../images/powershell/ps-us.jpg)  
+![get-culture](/images/010-ps-us.jpg)  
 
-![get-culture](../images/powershell/ps-sg.jpg)  
+![get-culture](/images/010-ps-sg.jpg)  
 
 Natürlich muss das in Windows eingestellte Datum berücksichtigt werden. Ein Datum im US Format erwartet an der ersten Stelle den Monat. D.h. Werte über 12 führen zu einem Fehler. Das kann mit Get-Culture eingestellt werden. Dieser Windows 10 Computer ist von der Tastaturbelegung bis hin zu den Datumsformaten auf "Swiss German" eingestellt. Da ich als verwendete Sprache US Englisch auf dem Computer definiert habe, erfolgt die Ausgabe von Powershell in Englisch.  
 
