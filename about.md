@@ -7,11 +7,11 @@ permalink: /about/
 <style type="text/css">
     table {
         font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', Courier, monospace;
-        font-size: 20px;
+        font-size: 30px;
         white-space: nowrap;
-        background-color: SteelBlue;
-        margin-left: 13em;
-        margin-right: 13em;
+        background-color: midnightblue;
+        margin-left: 1em;
+        margin-right: 1em;
     }
 </style>  
 
