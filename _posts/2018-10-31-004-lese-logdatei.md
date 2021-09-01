@@ -59,7 +59,15 @@ Die ersten zwei Bände waren bereits beeindruckend. Science Fiction vom Feinsten
 
 Da werden die verschiedenen Epochen der Menschheitsgeschichte verglichen, da werden Märchen erzählt, die Feminisierung der Männer findet Eingang, da wird mit der 4. und 2. Dimension hantiert, Raumschiffantriebe anaylsiert / verglichen, Astronomie und Distanzen erklärt, und und und. Wenn ich das Inhaltsverzeichnis anschaue und mir die einzelnen Kapitel durch den Kopf gehen lasse, dann ist das vergleichbar mit einem lukullischen Bankett.  
 
-Über all dem steht das Bekenntnis zur Liebe. Liebe und Leben werden synonym gesehen. Eines ist nicht möglich ohne das andere
+Über all dem steht das Bekenntnis zur Liebe. Liebe und Leben werden synonym gesehen. Eines ist nicht möglich ohne das andere. Und die Verantwortung die man dafür übernehmen muss. Cheng Xin monologisiert darüber: 
+>Mein ganzes Leben bestand daraus, die Stufen der Verantwortung zu erklimmen.
+
+>Als ich klein war, lag meine Verantwortung darin, fleißig zu lernen, ein braves Kind zu sein, meine Eltern nicht zu enttäuschen. Später an der Universität ging es darum, fleißig zu studieren, denn ich hatte die Verantwortung, meine Talente zu entwickeln und die Gesellschaft nicht zu enttäuschen.
+
+>Als ich mit meiner Doktorarbeit begann, nahm meine Verantwortung konkrete Züge an. Ich sollte meinen Beitrag zur Entwicklung chemischer Raketenantriebe leisten und leistungsfähige, zuverlässige Raketen bauen, um einige wenige Menschen und Material >in den Erdorbit zu bringen.
+
+>Wir wissen heute, dass dieser Weg für jede Zivilisation der gleiche ist: Wir erwachen in einer kleinen Wiege, dann purzeln wir heraus und fliegen davon, fliegen immer höher und weiter, und irgendwann, irgendwann ist unser kleines Schicksal das Schicksal des ganzen Universums.
+>Jedes intelligente Wesen strebt danach, einmal so groß zu werden wie seine Gedanken.
 
 ## KW33  
 
@@ -87,7 +95,7 @@ Darüber hinaus macht mir das lernen mit Keith Barker viel Spass. Seine Erkläru
 | Verlag:   | Aufbau Verlage   | 
 | ISBN:     | 978-3-7466-3307-7 |  
 
-Das Buch ist das letzte der Serie. Ingesamt sind es 4 Bände:
+Das Buch ist das letzte der Serie. Ingesamt sind es 4 Bände:  
 1. Das Geheimnis des Templers
 2. Die Rückkehr der Templer
 3. Das Rätsel der Templer
