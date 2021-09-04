@@ -26,6 +26,8 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Verlag:   | Manning Publications   | 
 | ISBN:     | 9781617293634 |  
 
+
+
 ![Cover](/images/06_elsberg_blackout.jpg)  
 
 | Titel:    | [BLACKOUT - Morgen ist es zu spät](https://www.penguinrandomhouse.de/Buch/BLACKOUT-Morgen-ist-es-zu-spaet/Marc-Elsberg/Blanvalet/e394832.rhd) 
