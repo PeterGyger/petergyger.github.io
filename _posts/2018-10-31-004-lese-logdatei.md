@@ -17,6 +17,22 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 # 2021  
 
+## KW36  
+
+![Cover]()  
+
+| Titel:    | []() 
+| Autor:    |  | 
+| Verlag:   |    | 
+| ISBN:     |  |  
+
+![Cover]()  
+
+| Titel:    | []() 
+| Autor:    |  | 
+| Verlag:   |    | 
+| ISBN:     |  |  
+
 ## KW35  
 
 ![Cover](/images/06_learn_cisco_network_administration.jpg)  
