@@ -493,6 +493,27 @@ Die CSS Klasse die im Beispiel angegeben ist, wirkt für die nachfolgenden Beisp
 
 ## Beispiel 2 Colspan mit individueller Breite der Spalten  
 
+Allgemein gesprochen, kann ich in Markdown in vielen HTML Tages die Breite mit diesen Anweisungen fixieren:
+
+```
+style="width: 40px;"
+```
+
+Konkret verwende ich es z.B. um in einer Tabelle die Breite einer Spalte festzulegen:  
+
+```
+<table>
+    <thead>
+        <tr style="font-weight: bold;">
+            <th style="width: 40px;">Nr</th>
+            <th style="width: 600px;">Titel</th>
+            <th style="width: 160px;">Datum Erstellt</th>
+            <th style="width: 160px;">Datum Geändert</th>
+        </tr>
+    </thead>
+...
+```
+
 ### Code  
 
  ```
