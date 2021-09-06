@@ -19,19 +19,20 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 ## KW36  
 
-![Cover]()  
+![Cover](/images/04-falcke-Lichtimdunkel.jpg)  
 
-| Titel:    | []() 
-| Autor:    |  | 
-| Verlag:   |    | 
-| ISBN:     |  |  
+| Titel:    | [Licht im Dunkeln: Schwarze Löcher, das Universum und wir](https://www.klett-cotta.de/buch/Leben/Licht_im_Dunkeln/117351)   
+| Autor:    | Heino Falcke |  
+| Verlag:   | Klett-Cotta  |  
+| ISBN:     | 9783608116861|  
 
-![Cover]()  
 
-| Titel:    | []() 
-| Autor:    |  | 
-| Verlag:   |    | 
-| ISBN:     |  |  
+![Cover](/images/04_cueni_bankier.jpg)  
+
+| Titel:    | [Der Bankier Gottes:](https://lenos.ch/buecher/der-bankier-gottes) 
+| Autor:    | Claude Cueni | 
+| Verlag:   | Lenos Verlag   | 
+| ISBN:     | 9783857875236 |  
 
 ## KW35  
 
@@ -42,16 +43,20 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Verlag:   | Manning Publications   | 
 | ISBN:     | 9781617293634 |  
 
-Ben Piper ist einer der typischen (US -) Autoren, deren Stil ich schlicht grossartig finde. Ohne akamdemische Floskeln oder Arroganz wird einem Einsteiger die Praxis in einem Cisco Netzwerk erklärt. Passend ergänzt mit detailierten Grafiken. Beispiel aus dem Kapitel 9: 
+Ben Piper ist einer der typischen (US -) Autoren, deren Stil ich schlicht grossartig finde. Ohne akamdemische Floskeln oder Arroganz wird einem Einsteiger die Praxis in einem Cisco Netzwerk erklärt. Passend ergänzt mit detailierten Grafiken. Beispiel aus dem Kapitel 9:  
+
 >Every ACL, as soon as you create it, contains a secret, hidden rule called the implicit deny rule. The rule looks like this: deny ip any any 
->You can blame Cisco for being counterintuitive on a lot of things, but this command does exactly what it says. It denies traffic from any IP address to any IP address. In other words, the implicit deny rule blocks all IP traffic. 
+>You can blame Cisco for being counterintuitive on a lot of things, but this command does exactly what it says. It denies traffic from any IP address to any IP address. In other words, the implicit deny rule blocks all IP traffic.  
+
+Am Schluss jedes Kapitels hat es ein "HANDS-ON LAB". Die Muster Lösungen findet man auf der Website des Verlages. Der Lerneffekt ist natürlich nicht der gleiche wie vorbereite Paket Tracer Labs. 
+
+Ein praktischer Service des Manning Publications Verlages ist es, dass ein detailiertes Inhaltsverzeichnis ("detailed TOC") angeboten wird:  
+![Cover](/images/004-piper-git-1.png)  
 
 Wenn man im deutschsprachigen Raum in ein neues Thema einsteigt, ist die erste und wichtigste Regel: "Nichts sagen - schon gar nicht fragen". Wenn der Meister in einer entspannten Randminute unterwürfig mit den aufgeschriebenen Fragen / Gedanken konfrontiert wird, erhält man spöttisch ein paar Brotkrumen. Zu oft in den letzten 24 Jahren erlebt.  
 Ich bin vertraut mit dem "nicht wissen" Konzept, wie z.B. die Kōan im Zen Buddhismus. Mir ist auch klar, dass man selbst im Zeitalter des (Google-) Halbwissens gewisse Konzepte verstanden haben muss. "Google Dorks" kenne ich - d.h. ich finde i.d.R. schnell was ich suche.  
 
 Als Profi nehme ich nichts aus meinem Berufsalltag persönlich. Jedoch schätze ich den zivilisierten, freundlichen Umgangston, wenn man eine Hürde wie z.B. eine Lernkurve packen muss. Zweitens ist Zeit auch Lebenszeit. Mehr Wert als Geld. Wenn ich für die ersten 80% des Wissens (Pareto Prinzip) keine ein- / ausgrenzenden Information von meinem Spezialisten erhalte, dann sind das Minuspunkte die mir notiere.  
-
-![Cover](/images/004-piper-git-1.png)  
 
 Auf der Website des Manning Verlages kann das Inhaltsverzeichnis über alle Abschnitte ("toc") hinweg detailiert angezeigt werden.  
 
@@ -62,7 +67,13 @@ Auf der Website des Manning Verlages kann das Inhaltsverzeichnis über alle Absc
 | Verlag:   | blanvalet   | 
 | ISBN:     | 9783641074319 |  
 
-Das Buch habe ich zuletzt 2016 gelesen. Es wird Zeit, dass zu wiederholen.  
+Das Buch habe ich zuletzt 2016 gelesen. Es wird Zeit, dass zu wiederholen dachte ich mir. Wenn ja inzwischen auch Behörden für diesen Fall vorsorgen. Bzw. Österreich mit Sicherheit davon ausgeht, dass es in den nächsten 2 - 3 Jahren eintreten wird.  
+
+Nach wie vor verblüffen der durchdachte Ablauf dieses Thrillers. Angefangen von manipulierten Smart Sensoren, die Täuschung des Kontrollpersonals in den Kraftwerken, der soziale Kollaps und die verfrühte Rückkehr in die Städte. Wenn der Strom für mehrere Tage oder Wochen ausgefallen ist, ist die Infrastruktur nachhaltig geschädigt. D.h. es dauert Monate bis in den grösseren Städten so etwas wie Normalität zurück kehrt.
+
+Die spannende Frage ist, was geschieht mit den Insassen der Gefängnissen und Psychiatrien, wenn das Personal nicht mehr zur Arbeit erscheint? Die Antwort liegt auf der Hand und verdeutlicht an einem Puzzleteil, mit was wir konfrontiert sind, wenn der Blackout eintritt.  
+
+Ja, dass Szenario kann noch übler gedacht werden. Die Sonne hat bereits über [geomagnetische Stürme](https://weather.com/de-DE/wissen/astronomie/news/2018-05-07-fatale-folgen-wie-ein-starker-sonnensturm-in-90-sekunden-unseren) regional Stromnetze für Stunden / Tage unterbrochen. Vor wenigen Tagen hat an der SIGCOMM 2021 die Forscherin "Abdu Jyothi" in einem [Bericht](https://www.wired.com/story/solar-storm-internet-apocalypse-undersea-cables/) dargelegt, wie die Internetinfrastruktur weltweit beschädigt würde.
 
 ## KW34  
 
