@@ -42,7 +42,18 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Verlag:   | Manning Publications   | 
 | ISBN:     | 9781617293634 |  
 
+Ben Piper ist einer der typischen (US -) Autoren, deren Stil ich schlicht grossartig finde. Ohne akamdemische Floskeln oder Arroganz wird einem Einsteiger die Praxis in einem Cisco Netzwerk erklärt. Passend ergänzt mit detailierten Grafiken. Beispiel aus dem Kapitel 9: 
+>Every ACL, as soon as you create it, contains a secret, hidden rule called the implicit deny rule. The rule looks like this: deny ip any any 
+>You can blame Cisco for being counterintuitive on a lot of things, but this command does exactly what it says. It denies traffic from any IP address to any IP address. In other words, the implicit deny rule blocks all IP traffic. 
 
+Wenn man im deutschsprachigen Raum in ein neues Thema einsteigt, ist die erste und wichtigste Regel: "Nichts sagen - schon gar nicht fragen". Wenn der Meister in einer entspannten Randminute unterwürfig mit den aufgeschriebenen Fragen / Gedanken konfrontiert wird, erhält man spöttisch ein paar Brotkrumen. Zu oft in den letzten 24 Jahren erlebt.  
+Ich bin vertraut mit dem "nicht wissen" Konzept, wie z.B. die Kōan im Zen Buddhismus. Mir ist auch klar, dass man selbst im Zeitalter des (Google-) Halbwissens gewisse Konzepte verstanden haben muss. "Google Dorks" kenne ich - d.h. ich finde i.d.R. schnell was ich suche.  
+
+Als Profi nehme ich nichts aus meinem Berufsalltag persönlich. Jedoch schätze ich den zivilisierten, freundlichen Umgangston, wenn man eine Hürde wie z.B. eine Lernkurve packen muss. Zweitens ist Zeit auch Lebenszeit. Mehr Wert als Geld. Wenn ich für die ersten 80% des Wissens (Pareto Prinzip) keine ein- / ausgrenzenden Information von meinem Spezialisten erhalte, dann sind das Minuspunkte die mir notiere.  
+
+![Cover](/images/004-piper-git-1.png)  
+
+Auf der Website des Manning Verlages kann das Inhaltsverzeichnis über alle Abschnitte ("toc") hinweg detailiert angezeigt werden.  
 
 ![Cover](/images/06_elsberg_blackout.jpg)  
 
