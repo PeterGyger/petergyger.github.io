@@ -15,7 +15,7 @@ Datums- und Zeitformate sind immer ein Punkt der beachtet werden muss. Darum mac
 
 Cmdlet "Get-Date" ist zuständig für Datumsinformationen. Mit ```get-date | get-member``` können die Funktionen aufgelistet werden. Z.B. ```(get-date).month```.  Alternativ kann man über eine Variable gehen:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 $datum = Get-Date    
 $datum.month    
 
@@ -33,27 +33,29 @@ Natürlich muss das in Windows eingestellte Datum berücksichtigt werden. Ein Da
 
 Der Befehl kann auch über die "[Standard Numeric Format Strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)" formatiert (Gross- / Kleinschreibung beachten) werden:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
-C:\Users\info> Get-Date -Format F
-&nbsp;    
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
+
+C:\Users\info> Get-Date -Format F    
+
 C:\Users\info> Get-Date -Format f    
+
 </div>
 
 Das Argument Format kann auch mit .NET [- DateTimeFormatInfo Class -](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo?view=netframework-4.7.2)] formatiert werden. Mit dem Argument -UFormat können Parameter im Unix Format verwendet werden. Das verwenden des Format Argumentes garantiert, dass unabhängig von den Ländereinstellungen in Windows die Angabe im gleichen Format angezeigt wird.  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 Get-Date -Format yyyy-MM-dd    
 </div>
 
 Welcher Wochentag war der erste Tag des laufenden Monates?  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 Get-Date –Day 1 –Hour 0 –Minute 0 –Second 0    
 </div>
 
 Wieviele Stunden des aktuellen Tages sind bereits vergangen?  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 (Get-Date).TimeOfDay.TotalHours    
 </div>  
 
@@ -61,7 +63,7 @@ Das Datum des Computers kann mit dem Cmdlet ["Set-Date"](https://docs.microsoft.
 
 Das Datumsobjekt kann über die Methode "tostring" zu einem Text ("String") umgewandelt werden:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 
 ([datetime]::now).tostring("dd.MM.yyyy HH:mm:ss")    
 ([datetime]::now).tostring("MM\/dd\/yyyy|HH:mm:ss.fff")    
@@ -78,7 +80,7 @@ Ein TimeSpan Wert stellt ein Zeitintervall dar und kann als eine bestimmte Anzah
 
 Beispiele:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 Wann wurde die Datei zuletzt geändert?    new-timespan -start (ls .\.gitconfig).lastwritetime    
 
 </div>
@@ -87,7 +89,7 @@ Wann wurde die Datei zuletzt geändert?    new-timespan -start (ls .\.gitconfig)
 
 Welcher Wochentag dieses Jahr Wehnachten ist, wurde weiter oben bereits angezeigt. Mit "rechnen" kann man auch ermitteln welcher Wochentag Sylvester dieses Jahr sein wird:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 (Get-Date "24.12.2018").AddDays(7).DayOfWeek    
 (Get-Date "24.12.2018").AddDays(7).AddHours(7)    
 
@@ -106,14 +108,14 @@ Weitere verwandte Funktionen:
 
 Und wieviele Tage es noch bis Weihnachten sind, ermittelt dieser Befehl:  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 (Get-Date "24.12.2018").DayOfYear - (Get-Date).DayOfYear  
 
 </div>
 
 Wie bekannt, kann das Resultat der Rechnung formatiert ausgegeben werden.  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)    
 (Get-Date "24.12.2018").AddDays(7).AddHours(7).ToString(“dd.MM.yyyy_HH:mm”)    
 
@@ -123,7 +125,7 @@ C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)
 
 ## Jahrestag in Datum konvertieren
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 $TempDate = ([datetime]"01/01/$((Get-Date).Year)").AddDays(140-1) $ShortDate =     
 $TempDate.ToShortDateString()    
 
@@ -131,7 +133,7 @@ $TempDate.ToShortDateString()
 
 ## Laufzeit eines Skriptes messen  
 
-<div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
+<div style="color: teal; font-family: 'Courier New', Courier; text-align: justify;">
 
 $Start = Get-Date    
 [Skript das durchläuft]    
