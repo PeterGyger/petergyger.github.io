@@ -60,10 +60,10 @@ Das Datum des Computers kann mit dem Cmdlet ["Set-Date"](https://docs.microsoft.
 Das Datumsobjekt kann über die Methode "tostring" zu einem Text ("String") umgewandelt werden:  
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
-`
+``
 ([datetime]::now).tostring("dd.MM.yyyy HH:mm:ss")  
 ([datetime]::now).tostring("MM\/dd\/yyyy|HH:mm:ss.fff")  
-`
+``
 </div>
 
 Das Cmdlet "Get-Date" unterstützt kein Remoting. Dafür ist das [Invoke Command](https://docs.microsoft.com/de-de/powershell/module/microsoft.powershell.core/invoke-command?view=powershell-6) erforderlich.  
