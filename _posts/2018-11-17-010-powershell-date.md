@@ -34,7 +34,8 @@ Natürlich muss das in Windows eingestellte Datum berücksichtigt werden. Ein Da
 Der Befehl kann auch über die "[Standard Numeric Format Strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)" formatiert (Gross- / Kleinschreibung beachten) werden:  
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-indent: 3em;">
-C:\Users\info> Get-Date -Format F    
+C:\Users\info> Get-Date -Format F
+&nbsp;    
 C:\Users\info> Get-Date -Format f    
 </div>
 
@@ -119,7 +120,6 @@ C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)
 </div>
 
 # Codesnippets
-
 
 ## Jahrestag in Datum konvertieren
 
