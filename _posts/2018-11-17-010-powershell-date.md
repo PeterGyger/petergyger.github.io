@@ -15,10 +15,10 @@ Datums- und Zeitformate sind immer ein Punkt der beachtet werden muss. Darum mac
 
 Cmdlet "Get-Date" ist zuständig für Datumsinformationen. Mit ```get-date | get-member``` können die Funktionen aufgelistet werden. Z.B. ```(get-date).month```.  Alternativ kann man über eine Variable gehen:  
 
-```
+`powershell
 $datum = Get-Date
 $datum.month
-```
+`
 
 In Powershell sind alles Objekte. D.h. $datum ist keine Variable, sondern ein Objekt. Daher kann über die Variable die gleichen Methoden angewendet werden. Ich kann dem Objekt auch ein konkretes Datum vorgeben und z.B. fragen, was für ein Wochentag der 24. Dezember 2018 ist.
 
