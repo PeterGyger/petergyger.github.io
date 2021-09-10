@@ -36,8 +36,8 @@ Der Befehl kann auch über die "[Standard Numeric Format Strings](https://docs.m
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
->C:\Users\info> Get-Date -Format F    
->C:\Users\info> Get-Date -Format f    
+> C:\Users\info> Get-Date -Format F    
+> C:\Users\info> Get-Date -Format f    
 
 </div>
 
