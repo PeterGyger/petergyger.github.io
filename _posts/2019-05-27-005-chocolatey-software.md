@@ -36,17 +36,21 @@ Danach über die Powershell Chocolatery installieren. Die Installation dauert ei
 
 Chocolatey hat eine grafische Oberfläche (GUI). Diese kann wie jedes andere Paket direkt aus der CLI - z.B. Powershell installiert werden:  
 
-``
-install chocolateygui
-``  
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+`install chocolateygui`      
+
+</p>
 
 # Pakete  
 
 Die Syntax für die Installation über CLI ist wie folgt, wobei "xxx" "yyy" "zzz" für die Namen von drei Softwarepakten steht. Die Anzahl ist nicht limnitiert durch Chocolatery. Der Parameter "-y" akzeptiert die Lizenzbedinungen des Paketes.
 
-``  
-choco install  xxx yyy zzz -y
-``  
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+`choco install  xxx yyy zzz -y`      
+
+</p>
 
 Wo ist die Liste mit den Paketen bzw. den Namen der Paketen?  
 
@@ -56,15 +60,19 @@ Auf der Kommandozeile:
 
 Suchen nach einem Paket im Repository:  
 
-``  
-choco search sysinternals  
-``  
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+`choco search sysinternals`    
+
+</p>
 
 Suchen (Beschreibung / Tags) nach einem Stichwort. Der Parameter "verbose" zeigt die komplette Beschreibung an.    
 
-``  
-choco list -verbose sysinternals
-``  
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+`choco list -verbose sysinternals`    
+
+</p>
 
 Auch das [deinstallieren](https://chocolatey.org/docs/commands-uninstall) von Paketen ist elegant einfach. Dito für das [updaten](https://chocolatey.org/docs/commands-upgrade) aller Pakete. Hier liegt der Gedanke nahe, den Befehl über ein Powershell Skript in den Scheduler einzubinden.  
 
@@ -73,31 +81,31 @@ Auch das [deinstallieren](https://chocolatey.org/docs/commands-uninstall) von Pa
 
 Ideal aus meiner Sicht ist es, die zu installierenden Software Pakete in einer externen Liste zu führen. Dadurch hat man auch schnell die Möglichkeit mehrere Paketlisten - Anwender und IT Profi - zu nutzen. Diese Paket werden über den Befehl [install](https://chocolatey.org/docs/commandsinstall) aufgerufen:  
 
-``
-Install-Package d:\packages.config  
-``
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+`Install-Package d:\packages.config`    
+
+</p>
 
 Die Datei "packages.config" sieht so aus:  
 
-``
-<?xml version="1.0" encoding="utf-8"?>  
-<packages>  
-    <package id="7zip" />  
-    <package id="putty" />  
-    <package id="vlc" />  
-    <package id="notepadplusplus" />  
-    <package id="paint.net " />  
-    <package id="irfanview " />  
-    <package id="calibre " />  
-    <package id="sumatra" />  
-    <package id="fax24" />  
-    <package id="wireshark" />  
-    <package id="ultravnc" />  
-    <package id="nmap" />  
-    <package id="sysinternals" />  
-    <package id="foobar2000" />  
-</packages>
-``
+`<?xml version="1.0" encoding="utf-8"?>    
+<packages>    
+    <package id="7zip" />    
+    <package id="putty" />    
+    <package id="vlc" />    
+    <package id="notepadplusplus" />    
+    <package id="paint.net " />    
+    <package id="irfanview " />    
+    <package id="calibre " />    
+    <package id="sumatra" />    
+    <package id="fax24" />    
+    <package id="wireshark" />      
+    <package id="ultravnc" />    
+    <package id="nmap" />    
+    <package id="sysinternals" />    
+    <package id="foobar2000" />    
+</packages>`    
 
 # Microsoft
 
