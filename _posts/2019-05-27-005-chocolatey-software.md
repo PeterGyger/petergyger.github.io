@@ -16,7 +16,7 @@ Das von Rob Reynolds 2011 entwickelte Tool nennt sich Chocolatery. Einen ersten 
 
 Programme unter Windows zu installieren, heisst über MSI (MS Installer) zu gehen. Oder man installiert aus dem Windows Store eine App. Was Microsoft als die Marschrichtung unter Windows 10 definiert. Beide Versionen sind komplex und fehleranfällig. Ein Paketmanager ist erheblich effizienter, was ich in diesem Artikel demonstrieren will. Unter Windows bietet Chocolatey die beste Integration in die Kommandozeile.  
 
-Nachfolgend als Beispiel das Szenario eines frisch installierten PC`s.  
+Nachfolgend als Beispiel das Szenario eines frisch installierten PCs.  
 
 # Powershell initalisieren  
 
@@ -38,8 +38,8 @@ Chocolatey hat eine grafische Oberfläche (GUI). Diese kann wie jedes andere Pak
 
 <p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
-`install chocolateygui`      
-
+install chocolateygui      
+   
 </p>
 
 # Pakete  
@@ -48,7 +48,7 @@ Die Syntax für die Installation über CLI ist wie folgt, wobei "xxx" "yyy" "zzz
 
 <p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
-`choco install  xxx yyy zzz -y`      
+choco install  xxx yyy zzz -y      
 
 </p>
 
@@ -62,7 +62,7 @@ Suchen nach einem Paket im Repository:
 
 <p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
-`choco search sysinternals`    
+choco search sysinternals    
 
 </p>
 
@@ -70,7 +70,7 @@ Suchen (Beschreibung / Tags) nach einem Stichwort. Der Parameter "verbose" zeigt
 
 <p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
-`choco list -verbose sysinternals`    
+choco list -verbose sysinternals    
 
 </p>
 
@@ -83,29 +83,50 @@ Ideal aus meiner Sicht ist es, die zu installierenden Software Pakete in einer e
 
 <p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
-`Install-Package d:\packages.config`    
+Install-Package d:\packages.config    
 
 </p>
 
 Die Datei "packages.config" sieht so aus:  
 
-`<?xml version="1.0" encoding="utf-8"?>    
+<p style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
+
+<?xml version="1.0" encoding="utf-8"?>    
+
 <packages>    
+<br>
     <package id="7zip" />    
+    <br>
     <package id="putty" />    
+    <br>
     <package id="vlc" />    
+    <br>
     <package id="notepadplusplus" />    
+    <br>    
     <package id="paint.net " />    
+    <br>    
     <package id="irfanview " />    
+    <br>    
     <package id="calibre " />    
+    <br>    
     <package id="sumatra" />    
+    <br>
     <package id="fax24" />    
+    <br>    
     <package id="wireshark" />      
+    <br>    
     <package id="ultravnc" />    
+    <br>    
     <package id="nmap" />    
+    <br>    
     <package id="sysinternals" />    
+    <br>
     <package id="foobar2000" />    
-</packages>`    
+    <br>    
+</packages>    
+<br>
+
+</p>
 
 # Microsoft
 
