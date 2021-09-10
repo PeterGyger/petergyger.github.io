@@ -67,6 +67,7 @@ Das Datumsobjekt kann über die Methode "tostring" zu einem Text ("String") umge
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
 ([datetime]::now).tostring("dd.MM.yyyy HH:mm:ss")    
+<br>
 ([datetime]::now).tostring("MM\/dd\/yyyy|HH:mm:ss.fff")    
 
 </div>
@@ -92,6 +93,7 @@ Welcher Wochentag dieses Jahr Wehnachten ist, wurde weiter oben bereits angezeig
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 (Get-Date "24.12.2018").AddDays(7).DayOfWeek    
+<br>
 (Get-Date "24.12.2018").AddDays(7).AddHours(7)    
 
 </div>
@@ -118,6 +120,7 @@ Wie bekannt, kann das Resultat der Rechnung formatiert ausgegeben werden.
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)    
+<br>
 (Get-Date "24.12.2018").AddDays(7).AddHours(7).ToString(“dd.MM.yyyy_HH:mm”)    
 
 </div>
@@ -128,6 +131,7 @@ C:\Users\info> (Get-Date "24.12.2018").AddDays(7).ToString(“dd.MM.yyyy”)
 
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 $TempDate = ([datetime]"01/01/$((Get-Date).Year)").AddDays(140-1) $ShortDate =     
+<br>
 $TempDate.ToShortDateString()    
 
 </div>
@@ -137,9 +141,13 @@ $TempDate.ToShortDateString()
 <div style="color: teal; font-family: 'Courier New', Courier; text-align: justify; margin-left:10px;">
 
 $Start = Get-Date    
+<br>
 [Skript das durchläuft]    
+<br>
 $Ende = Get-Date    
+<br>
 $Resultat = $Start - $Ende    
+<br>
 write-host "$($Resultat.Hours)h:$($Resultat.Minutes)m:$($Resultat.Seconds)s"    
 
 </div>
