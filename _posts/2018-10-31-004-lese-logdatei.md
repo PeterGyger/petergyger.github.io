@@ -26,6 +26,15 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Verlag:   | Klett-Cotta  |  
 | ISBN:     | 9783608116861|  
 
+Nebst Carl Sagan's "Unser Kosmos" hat mich kein Buch so sehr für die Astronomie begeistert. Die ersten zwei Teile vermitteln die Grundlagen. Sie haben mich definitiv für Quasare fasziniert. Auch das in den Star Trek Filmen verwendete Längenmass Parsec wird erläutert. Ich habe Kapitel um Kapitel verschlungen.  
+
+Teil 3 schildert den Ablauf des Projektes, wie sich das Team organierte, wie man die Mittel organisierte. Lebhaft und mit Schalk beschrieben. Vergleichbar mit "Die Seele einer neuen Maschine" von Tracy Kidder, jedoch wesentlich besser "verkauft". Das heisst mit AnekdoteN aus dem Alltag der Forscher an den verschiedenen Standorten in der Welt. Z.B. über einen Fuchs der einen Serano Schinken stibitzt hat und danch regelmässig wieder vorbei schaut.  
+
+[Heino Falcke]( https://heinofalcke.org/) erlebe ich in diesem Buch als einen egomanischen Visionär wie Steve Jobs. Genauso besessen, intelligent und zielstrebig verfolgt er in seinem Leben ein Ziel: Ein scharzes Loch fotografieren.  
+
+Das er das unethische Verhalten von Edwin Hubble thematisiert, der aus ruhmsucht die Namen Forscherkollegen nicht aufführte, um deren Wissen zu nutzen, ist schon fast Ironie.  
+
+Wobei mit "fotografieren" nicht Pixels gemeint sind, sondern berechnete und interpolierte Daten. Inwiefern dieses Projekt uns als Menscheit auf dem Weg zu den Sternen beflügeln soll, ist mir unklar...
 
 ![Cover](/images/04_cueni_bankier.jpg)  
 
@@ -33,6 +42,21 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 | Autor:    | Claude Cueni | 
 | Verlag:   | Lenos Verlag   | 
 | ISBN:     | 9783857875236 |  
+
+Das Buch ist der dritte und letzte Band des Zyklus "Geld und Liebe":  
+1. Cäsars Druide  
+2. Das Grosse Spiel  
+3. Der Bankier Gottes
+
+Wäre Claude Cueni wie Dan Brown in einem US Verlag verlegt worden, dann wäre er wahrscheinlich gleichermassen bekannt und erfolgreich. Seine stärken sind akribische Recherchen, glaubhafte Figurenzeichnung, Humor und ein Erzähltalent.  
+
+Das Buch von 2008 verbindet die Geschichte des Goldstandards mit dem Mithraskult. Dieser sieht Verträge - Mensch zu Mensch bzw. Menschen und Natur - als die heilige Grundlage des Lebens an. Die christliche Religion als Plagiat des Mithraskult wird in diesem Buch mit diesem Fundament konfrontiert. 
+
+Die zwei Abschnitte über den mutierten Vogelgrippe Virus und den "Monetary Jihad" sind jedoch ärgerlich. Wenn schon zwei neue Koordinaten in die Geschichte eingefügt werden, dann erwarte ich als Leser das diese sich mit dem Handlungsstrang verflechten. Das Buch ist spannend ("Page Turner") genug, dass ich anstatt 450 Seiten auch 600 oder 900 Seiten gelesen hätte
+
+Claude Cueni ist eine erfolgreiche, intellektuelle Persönlichkeit die vieles in Ihrem Leben erreicht hat. Die Geschichten in seinem Büchern sind so authentisch, weil er über mehrere Jahrzehnte hinweg ein intensives Leben führt.  
+
+[Website](http://www.cueni.ch/buecher/der-bankier-gottes/) des Autors mit Hintergrund Informationen zu diesem Buch. 
 
 ## KW35  
 
