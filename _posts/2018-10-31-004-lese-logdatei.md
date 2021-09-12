@@ -32,7 +32,14 @@ Teil 3 schildert den Ablauf des Projektes, wie sich das Team organierte, wie man
 
 [Heino Falcke]( https://heinofalcke.org/) erlebe ich in diesem Buch als einen egomanischen Visionär wie Steve Jobs. Genauso besessen, intelligent und zielstrebig verfolgt er in seinem Leben ein Ziel: Ein scharzes Loch fotografieren.  
 
-Das er das unethische Verhalten von Edwin Hubble thematisiert, der aus ruhmsucht die Namen Forscherkollegen nicht aufführte, um deren Wissen zu nutzen, ist schon fast Ironie.  
+Zitat:  
+> Einer dieser übrig gebliebenen Planetoiden, der unter der
+> Nummer 12654 im Verzeichnis des Minor Planet Center der
+> Internationalen Astronomischen Union gelistet ist, heißt seit
+> 2019 übrigens »Heinofalcke« und läuft auf einer ziemlich
+> exzentrischen Bahn um die Sonne
+
+Das er das unethische Verhalten von Edwin Hubble thematisiert, der aus Ruhmsucht die Namen Forscherkollegen nicht aufführte, um deren Wissen zu nutzen, passt irgendwie. 2019 wurde die Huble Konstante in [Hubble-Lemaître](https://www.spektrum.de/news/hubble-gesetz-soll-umbenannt-werden/1605794) umbenannt.
 
 Wobei mit "fotografieren" nicht Pixels gemeint sind, sondern berechnete und interpolierte Daten. Inwiefern dieses Projekt uns als Menscheit auf dem Weg zu den Sternen beflügeln soll, ist mir unklar...
 
