@@ -17,6 +17,21 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 # 2021  
 
+## KW37  
+
+![Cover](/images/04-tess-damengambit.jpg)  
+
+| Titel:    | [Das Damengambit](https://www.diogenes.ch/leser/titel/walter-tevis/das-damengambit-9783257611892.html)   
+| Autor:    | Walter Tevis |  
+| Verlag:   | Diogenes Verlag  |  
+| ISBN:     | 9783257611892|  
+
+Die Serie "Damengambit" von Netflix hat wie eine Bombe eingeschlagen. Eine eher trockene Geschichte eines Mädchens aus den 50er Jahren, dass als Kind das Schachspiel als einzige Ablenkung entdeckt.  
+Analog dem Erfolg von Harry Potter, der Kinder für das Lesen begeisterte hat diese Serie eine Renisaince des (Volks-) Schachs ausgelöst. Auch auf [Twitch](https://schachmatt.net/blog/schach-hype-2020/) und anderen Online Plattformen. 
+
+Wie beim Buch von Umberto Eco "Der Name der Rose" habe ich auch hier zuerst den Film gesehen. Und komme nun ein paar Monate später dazu, dass Buch zu lesen.
+
+
 ## KW36  
 
 ![Cover](/images/04-falcke-Lichtimdunkel.jpg)  
