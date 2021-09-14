@@ -31,6 +31,14 @@ Analog dem Erfolg von Harry Potter, der Kinder für das Lesen begeisterte hat di
 
 Wie beim Buch von Umberto Eco "Der Name der Rose" habe ich auch hier zuerst den Film gesehen. Und komme nun ein paar Monate später dazu, dass Buch zu lesen.
 
+![Cover](/images/04_excellentpr.jpg)  
+
+| Titel:    | [Exzellent präsentieren: Die Psychologie erfolgreicher Ideenvermittlung – Werkzeuge und Techniken für herausragende Präsentationen](https://www.springer.com/de/book/9783658123024)   
+| Autor:    | Nils Schulenburg |  
+| Verlag:   | Springer Gabler  |  
+| ISBN:     | 9783658123024|  
+
+Die Worte "Gehirnbesitzer" bzw. gehirngerecht habe ich zuletzt vor Jahrzehnten in den Büchern von Vera F.  Birkenbihl gelesen. Das Buch wurde 2017 auf den Markt gebracht. D.h. vor der dem weltweiten Lockdown. Daher bezieht sich das Buch auf eine direkte Präsentation vor Publikum. 
 
 ## KW36  
 
