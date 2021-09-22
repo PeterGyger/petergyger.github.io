@@ -17,6 +17,9 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 # 2021  
 
+## KW38  
+  
+
 ## KW37  
 
 ![Cover](/images/04-tess-damengambit.jpg)  
@@ -28,8 +31,9 @@ Trotz wiederholter Anfrage bietet kein schweizer Buchhändler eine Wunschliste f
 
 Die Serie "Damengambit" von Netflix hat wie eine Bombe eingeschlagen. Eine eher trockene Geschichte eines Mädchens aus den 50er Jahren, dass als Kind das Schachspiel als einzige Ablenkung entdeckt.  
 Analog dem Erfolg von Harry Potter, der Kinder für das Lesen begeisterte hat diese Serie eine Renisaince des (Volks-) Schachs ausgelöst. Auch auf [Twitch](https://schachmatt.net/blog/schach-hype-2020/) und anderen Online Plattformen. 
+Wie beim Buch von Umberto Eco "Der Name der Rose" habe ich auch hier zuerst den Film gesehen. Und komme nun ein paar Monate später dazu, dass Buch zu lesen.  
 
-Wie beim Buch von Umberto Eco "Der Name der Rose" habe ich auch hier zuerst den Film gesehen. Und komme nun ein paar Monate später dazu, dass Buch zu lesen.
+Das Buch ist eine nette, kleine Geschichte. Kein Buch, dass man auf die einsame Insel mitnehmen würde. Schlicht unterhaltend. Was Netflix daraus gemacht hat, ist wirklich toll.
 
 ![Cover](/images/04_excellentpr.jpg)  
 
@@ -38,7 +42,19 @@ Wie beim Buch von Umberto Eco "Der Name der Rose" habe ich auch hier zuerst den 
 | Verlag:   | Springer Gabler  |  
 | ISBN:     | 9783658123024|  
 
-Die Worte "Gehirnbesitzer" bzw. gehirngerecht habe ich zuletzt vor Jahrzehnten in den Büchern von Vera F.  Birkenbihl gelesen. Das Buch wurde 2017 auf den Markt gebracht. D.h. vor der dem weltweiten Lockdown. Daher bezieht sich das Buch auf eine direkte Präsentation vor Publikum. 
+Der Autor benennt 41 "Werkzeuge" die eine gelungene Präsentation ausmachen. In Kapitel 5 sind diese in der Abildung 5.3 in einem Schema dargetellt. Das Buch wurde 2017 auf den Markt gebracht. D.h. vor der dem weltweiten Lockdown. Daher bezieht sich das Buch auf eine direkte Präsentation vor Publikum. Die Worte "Gehirnbesitzer" bzw. gehirngerecht habe ich zuletzt vor Jahrzehnten in den Büchern von Vera F.  Birkenbihl gelesen. Er nimmt wiederholt Bezug auf [Chris Anderson](https://www.youtube.com/watch?v=HN0hkfD6c_c) den Begründer der Ted Talks und empfiehlt diese auch.
+
+Das Buch ist in vier Kapitel unterteilt:  
+
+1. Grundlagen exzellenten Präsentierens (Kapitel 2)  
+2. Kernfelder exzellenten Präsentierens (Kapitel 3)  
+3. Unterstützende Felder exzellenten Präsentierens (Kapitel 4)  
+4. Übersicht der Werkzeuge exzellenten Präsentierens (Kapitel 5)  
+
+Nach der ersten Staffel der Serie "Games of Thrones" suchte ich mir im Netz eine Karte der fiktiven Welt. Sowie eine Liste der Familien und deren Angehörigen. Denselben Drang habe ich, wenn in der Einführung von 41 Werkzeugen gesprochen wird. D.h. ich zähle sie durch. Hätte ich nicht die schematische Übersicht auf der Seite 290 entdeckt, hätte meine Motivation bis zum Ende zu lesen gelitten.  
+
+Was nehme ich aus dem Buch mit? Augenkontakt - jeden Teilnehmer bewusst anschauen. Den Nutzen des Inhaltes des Vortrages akribisch und strukturiert erläutern. Generell die Beispiele aus der Praxis des Autors.
+
 
 ## KW36  
 
